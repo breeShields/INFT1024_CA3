@@ -38,6 +38,23 @@ a:hover{
     color: rgb(203, 75, 22);
 }
 
+div {
+    border: solid; 
+    border-width: 3px;
+    border-color: rgb(42,161,152);
+}
+
+h1 {
+    text-align: center;
+    font-size: 150%;
+    color: rgb(181,137,0);
+}
+
+ul {
+    list-style-type: none;
+}
+
+
     
  
 
