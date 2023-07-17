@@ -74,9 +74,18 @@ aside a:hover {
     color:  rgb(38,139,210);
 }
 
+body {
+    max-width: 800px;
+}
+
 h1, h2, h3 {
     padding-top: 50px;
 }
+
+main {
+    display: flex;
+}
+
 
 
 
